@@ -28,3 +28,4 @@ Den första veckan kommer ni att få lära er grunderna inom HTML, och där ni i
 * [Parcel](https://parceljs.org/)
 
 ## Övningar
+Veckans övningar hittar ni i mappen [Exercises](https://github.com/MU23FRONTEND/vecka14_html/tree/main/Exercises).

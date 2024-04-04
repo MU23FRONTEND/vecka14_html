@@ -14,6 +14,11 @@ Dessa är förslag på övningar men huvudsaken är att du har koll på hur HTML
 
 <hr>
 
+### Övningskompendium
+Här har ni även ett litet [kompendium](https://docs.google.com/document/d/1mqZ2FJIFIM9XWs_69tvnAEnMenLPcrSb/edit) med instruktioner för grundläggande HTML, med tillhörande övningar mot slutet.
+
+<hr>
+
 ### Självtest: Netflix utan css och js
 
 För att testa dig själv så föreslås det att du tar din favoritsida, plockar bort all css och javascript och sedan försöker återskapa innehållet på sidan med hjälp av endast html. Nedan är netflixs landningssida utan css eller javascript.
